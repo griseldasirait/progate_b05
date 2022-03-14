@@ -1,4 +1,4 @@
-# PROYEK TEAM B05 - Progate
+# PROYEK TIM B05 - Progate
 ## HTML & CSS - Fullstack Ruby B
 
 
